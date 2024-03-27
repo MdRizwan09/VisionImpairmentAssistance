@@ -1,0 +1,13 @@
+0 10 Rupees Note
+1 20 Rupees Note
+2 Not a Currency
+3 50 Rupees Note
+4 100 Rupees Note
+5 200 Rupees Note
+6 500 Rupees Note
+7 500 Rupees Old Note
+8 2000 Rupees Note
+9 1 Rupee Coin
+10 2 Rupees Coin
+11 5 Rupees Coin
+12 10 Rupees Coin
