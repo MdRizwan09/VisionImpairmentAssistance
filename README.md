@@ -1,12 +1,12 @@
-**Vision Impairment Assistance
-**
-We need to insatall these libraries first:
+**Vision Impairment Assistance**
+
+We need to insatall all these libraries first: 
 pip install opencv-python
-pip install python-vlc
-pip install imutils
-pip install pyttsx3
-pip install mutagen
-pip install gtts
+pip install python-vlc 
+pip install imutils 
+pip install pyttsx3 
+pip install mutagen 
+pip install gtts 
 pip install vlc
 
 **YOLO (You Only Look Once)**
